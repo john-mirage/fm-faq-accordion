@@ -1,0 +1,13 @@
+@import url("./styles/reset.css");
+
+@import url("./styles/components/page.css");
+@import url("./styles/components/card.css");
+@import url("./styles/components/faq.css");
+
+:root {
+  --color-dark-purple: #301534;
+  --color-pink: #ad28eb;
+  --color-light-pink: #f8eeff;
+  --color-pale-purple: #8b6990;
+  --color-white: #ffffff;
+}
